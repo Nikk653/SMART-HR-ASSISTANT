@@ -1,0 +1,11 @@
+Branch_ID,Country,Branch_Name,Branch_Code,Branch_Manager,HR_Manager,Payroll_Manager,IT_Manager,Admin_Manager,Security_Head,Receptionist,Emergency_Number,Working_Hours,Email,Phone,Address
+1,India,Delhi,DEL01,Amit Sharma,Neha Kapoor,Rahul Verma,Sneha Singh,Anil Mehta,Vikram Rao,Anjali Patel,011-23456789,09:00-18:00,delhi.branch@smarthr.com,011-9876543210,"12 Kasturba Gandhi Marg, New Delhi"
+2,India,Mumbai,MUM01,Rajesh Iyer,Priya Desai,Anita Joshi,Sameer Khan,Meena Shah,Deepak Patil,Sunita Rao,022-22334455,09:00-18:00,mumbai.branch@smarthr.com,022-9988776655,"201 Bandra Kurla Complex, Mumbai"
+3,India,Bengaluru,BLR01,Vinod Nair,Swati Rao,Manish Kumar,Rajeev Reddy,Rohit Gupta,Sunil Kumar,Radha Nair,080-33221100,09:00-18:00,bangalore.branch@smarthr.com,080-9123456789,"5 ITPL Main Rd, Whitefield, Bengaluru"
+4,India,Hyderabad,HYD01,Sameer Reddy,Nithya Rao,Arun Bhatia,Kavitha Iyer,Suresh Reddy,Naveen Singh,Priya Menon,040-66554433,09:00-18:00,hyderabad.branch@smarthr.com,040-9988776655,"7 Hitech City Rd, Hyderabad"
+5,India,Pune,PUN01,Ashwin Patil,Divya Kulkarni,Kunal Joshi,Nilesh Deshmukh,Sunita Desai,Vinod Pawar,Asha Kulkarni,020-44332211,09:00-18:00,pune.branch@smarthr.com,020-9988001122,"23 EON Free Zone, Pune"
+6,United States,New York,NYC01,Laura Bennett,Sarah Green,Michael Stone,Jason Lee,Nancy Brooks,Henry Fox,Mia Carter,212-5550100,08:00-17:00,nyc.branch@smarthr.com,212-5550101,"150 Broadway, New York, NY"
+7,United Kingdom,London,LON01,James Wilson,Olivia Clarke,Thomas Reed,Emma White,David King,Chloe Taylor,Emma Young,020-79460000,08:30-17:30,london.branch@smarthr.com,020-79460001,"10 Downing St, London"
+8,Canada,Toronto,YTO01,Ethan Scott,Emily Nash,Daniel Brooks,Ava Martin,Rachel Gray,Liam Allen,Hannah Hall,416-5550200,09:00-18:00,toronto.branch@smarthr.com,416-5550201,"123 Queen St W, Toronto, ON"
+9,Australia,Sydney,SYD01,Olivia Martin,Sophie Brown,James Carter,Noah King,Sophia Lewis,Ethan Hill,Isla Turner,02-80050000,09:00-17:00,sydney.branch@smarthr.com,02-80050001,"50 George St, Sydney, NSW"
+10,Germany,Berlin,BER01,Max Müller,Anna Schmidt,Thomas Weber,Lukas Fischer,Laura Klein,Peter Maier,Lea Hoffmann,030-12345678,08:00-17:00,berlin.branch@smarthr.com,030-87654321,"Unter den Linden 1, Berlin"

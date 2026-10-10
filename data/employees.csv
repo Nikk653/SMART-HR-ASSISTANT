@@ -1,0 +1,3 @@
+Employee_ID,Password,Name,Country,Language,Branch,Department,Designation,Role,Leave_Balance,Attendance
+EMP001,12345,Nikhil Kushwah,India,English,Delhi,AI,AI Engineer,Employee,12,95
+EMP002,12345,Rahul Sharma,India,Hindi,Mumbai,HR,HR Manager,HR,20,99

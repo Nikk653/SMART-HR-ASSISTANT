@@ -1,0 +1,286 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "good afternoon",
+        "hii",
+        "hello hr",
+        "hello assistant",
+        "hey bot"
+      ],
+      "response": "Hello! Welcome to Smart HR Assistant. How can I help you today?"
+    },
+    {
+      "tag": "leave_balance",
+      "patterns": [
+        "how many leaves do i have",
+        "how many leave do i have",
+        "how much leave do i have",
+        "how much leaves do i have",
+        "show my leave balance",
+        "show remaining leave",
+        "show remaining leaves",
+        "leave balance",
+        "remaining leave",
+        "remaining leaves",
+        "available leave",
+        "available leaves",
+        "leave left",
+        "leaves left",
+        "my leave",
+        "my leaves",
+        "leave remaining",
+        "remaining casual leave",
+        "remaining paid leave",
+        "remaining sick leave",
+        "tell my leave balance",
+        "check leave balance",
+        "check my leave",
+        "leave status",
+        "total leave",
+        "total leaves",
+        "leave details",
+        "my leave details",
+        "leave available",
+        "leave count"
+      ],
+      "response": "leave_balance"
+    },
+    {
+      "tag": "leave_policy",
+      "patterns": [
+        "leave policy",
+        "casual leave",
+        "earned leave",
+        "sick leave",
+        "company leave policy",
+        "types of leave"
+      ],
+      "response": "leave_policy"
+    },
+    {
+      "tag": "attendance",
+      "patterns": [
+        "show attendance",
+        "attendance",
+        "attendance percentage",
+        "attendance report",
+        "my attendance",
+        "working days",
+        "present days"
+      ],
+      "response": "attendance"
+    },
+    {
+      "tag": "check_in",
+      "patterns": [
+        "check in",
+        "mark attendance",
+        "start work",
+        "office check in"
+      ],
+      "response": "check_in"
+    },
+    {
+      "tag": "check_out",
+      "patterns": [
+        "check out",
+        "end work",
+        "office check out"
+      ],
+      "response": "check_out"
+    },
+    {
+      "tag": "working_hours",
+      "patterns": [
+        "office timing",
+        "working hours",
+        "company timing",
+        "what is office timing",
+        "shift timing"
+      ],
+      "response": "working_hours"
+    },
+    {
+      "tag": "salary",
+      "patterns": [
+        "salary",
+        "show my salary",
+        "net salary",
+        "basic salary",
+        "salary details",
+        "salary information"
+      ],
+      "response": "salary"
+    },
+    {
+      "tag": "bonus",
+      "patterns": [
+        "bonus",
+        "performance bonus",
+        "annual bonus",
+        "incentive"
+      ],
+      "response": "bonus"
+    },
+    {
+      "tag": "tax",
+      "patterns": [
+        "tax",
+        "income tax",
+        "tax deduction",
+        "tds"
+      ],
+      "response": "tax"
+    },
+    {
+      "tag": "payslip",
+      "patterns": [
+        "download payslip",
+        "salary slip",
+        "payslip",
+        "monthly payslip"
+      ],
+      "response": "payslip"
+    },
+    {
+      "tag": "profile",
+      "patterns": [
+        "show profile",
+        "my profile",
+        "employee profile",
+        "view profile"
+      ],
+      "response": "profile"
+    },
+    {
+      "tag": "change_phone",
+      "patterns": [
+        "change phone",
+        "update phone",
+        "phone number",
+        "modify phone"
+      ],
+      "response": "change_phone"
+    },
+    {
+      "tag": "change_email",
+      "patterns": [
+        "change email",
+        "update email",
+        "modify email",
+        "email address"
+      ],
+      "response": "change_email"
+    },
+    {
+      "tag": "hr",
+      "patterns": [
+        "who is my hr",
+        "hr manager",
+        "hr contact",
+        "contact hr",
+        "human resource"
+      ],
+      "response": "hr"
+    },
+    {
+      "tag": "holiday",
+      "patterns": [
+        "holiday",
+        "holiday list",
+        "company holiday",
+        "next holiday"
+      ],
+      "response": "holiday"
+    },
+    {
+      "tag": "training",
+      "patterns": [
+        "training",
+        "training schedule",
+        "learning",
+        "workshop"
+      ],
+      "response": "training"
+    },
+    {
+      "tag": "work_from_home",
+      "patterns": [
+        "work from home",
+        "wfh",
+        "remote work",
+        "hybrid work"
+      ],
+      "response": "work_from_home"
+    },
+    {
+      "tag": "company_policy",
+      "patterns": [
+        "company policy",
+        "office policy",
+        "employee policy",
+        "rules",
+        "guidelines"
+      ],
+      "response": "company_policy"
+    },
+    {
+      "tag": "raise_ticket",
+      "patterns": [
+        "raise ticket",
+        "create ticket",
+        "report issue",
+        "support ticket"
+      ],
+      "response": "raise_ticket"
+    },
+    {
+      "tag": "laptop_issue",
+      "patterns": [
+        "laptop issue",
+        "system problem",
+        "computer problem",
+        "device issue"
+      ],
+      "response": "laptop_issue"
+    },
+    {
+      "tag": "attendance_issue",
+      "patterns": [
+        "attendance issue",
+        "attendance not updated",
+        "wrong attendance",
+        "attendance problem"
+      ],
+      "response": "attendance_issue"
+    },
+    {
+      "tag": "payroll_issue",
+      "patterns": [
+        "salary issue",
+        "payroll issue",
+        "wrong salary",
+        "salary problem"
+      ],
+      "response": "payroll_issue"
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you",
+        "thank you",
+        "thanks"
+      ],
+      "response": "Thank you for using Smart HR Assistant. Have a great day!"
+    }
+  ]
+}
